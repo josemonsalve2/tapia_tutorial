@@ -1,0 +1,12 @@
+Files for MPI Examples
+
+Makefile compilation/link must be modifoed for your specific compiler, MPI library. Exampls have been tested  with 
+using gcc/10.2.1, mvapich2/2.3 
+
+to make a specific example, e.g., mpi_mm, 
+
+make mpi_mm
+
+
+to make all examples
+make all
