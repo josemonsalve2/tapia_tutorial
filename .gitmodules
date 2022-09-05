@@ -1,0 +1,3 @@
+[submodule "openmp_tutorial"]
+	path = openmp_tutorial
+	url = git@github.com:josemonsalve2/openmp_tutorial.git
