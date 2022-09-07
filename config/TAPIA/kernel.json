@@ -7,7 +7,7 @@
   "-f",
   "{connection_file}"
  ],
- "display_name": "TAPIA MPI",
+ "display_name": "TAPIA",
  "language": "python",
  "metadata": {
   "debugger": true
