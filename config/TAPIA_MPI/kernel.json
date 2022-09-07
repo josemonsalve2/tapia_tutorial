@@ -1,15 +1,15 @@
 {
-    "argv": [
-     "{resource_dir}/kernel-helper.sh",
-     "python",
-     "-m",
-     "ipykernel_launcher",
-     "-f",
-     "{connection_file}"
-    ],
-    "display_name": "TAPIA_MPI",
-    "language": "python",
-    "metadata": {
-     "debugger": true
-    }
-   }
+ "argv": [
+  "{resource_dir}/kernel-helper.sh",
+  "python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "TAPIA_MPI",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
